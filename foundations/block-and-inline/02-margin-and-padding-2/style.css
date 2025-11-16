@@ -35,8 +35,8 @@ div.content {
 }
 
 button {
-  display: inline-block;
-  margin: 0;
+  /* display: inline-block; */
+  /* margin: 0; */
   padding-inline: 18px;
   padding-block: 10px;
   border: none;
